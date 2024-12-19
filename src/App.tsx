@@ -1,10 +1,4 @@
-import {
-  BrowserRouter as Router,
-  Route,
-  Routes,
-  BrowserRouter,
-  Navigate,
-} from "react-router-dom";
+import { Route, Routes, BrowserRouter, Navigate } from "react-router-dom";
 import MainLayout from "./components/layouts/MainLayout";
 import Dashboard from "./pages/dashboard";
 import Suppliers from "./pages/suppliers";

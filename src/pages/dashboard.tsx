@@ -18,8 +18,6 @@ import {
   Package,
   FileText,
   MessageSquare,
-  Euro,
-  DollarSign,
 } from "lucide-react";
 import { TransportChart } from "@/components/dashboard/TransportChart";
 import { transportData } from "@/data/mockData";
